@@ -1,4 +1,4 @@
-Rangkui is an open-source project developed by Setiadifoss to support the development of web-based information systems and applications based on the principles of clean architecture, open collaboration, and community-driven innovation. who want to contribute to the growth of Free and Open Source Software (FOSS) in Indonesia. ry.
+Rangkui is an open-source project developed by Setiadifoss to support the development of web-based information systems and applications based on the principles of clean architecture, open collaboration, and community-driven innovation. who want to contribute to the growth of Free and Open Source Software (FOSS) in Indonesia.
 
 ## Server Requirements
 

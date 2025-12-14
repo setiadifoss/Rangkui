@@ -1,0 +1,2 @@
+msgid "Add New User"
+msgstr "Tambah Pengguna"

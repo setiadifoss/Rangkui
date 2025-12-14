@@ -1,0 +1,118 @@
+table.responsive>thead,
+table.responsive>tfoot,
+table.table-button>thead,
+table.table-button>tfoot,
+table.responsive-0>thead,
+table.responsive-0>tfoot {
+    background-color: #2A3F54;
+    color: #fff;
+}
+
+table.responsive>thead>tr>th,
+table.responsive>tfoot>tr>th,
+table.table-button>thead>tr>th,
+table.table-button>tfoot>tr>th,
+table.responsive-0>thead>tr>th,
+table.responsive-0>tfoot>tr>th {
+    text-align: center;
+    vertical-align: middle;
+}
+
+table.responsive>thead .sorting:after,
+table.responsive>thead .sorting_desc:after,
+table.responsive>thead .sorting_asc:after,
+table.table-button>thead .sorting:after,
+table.table-button>thead .sorting_desc:after,
+table.table-button>thead .sorting_asc:after,
+table.responsive-0>thead .sorting:after,
+table.responsive-0>thead .sorting_desc:after,
+table.responsive-0>thead .sorting_asc:after {
+    opacity: 1 !important;
+}
+
+.btn-default {
+    background: #f4f4f4;
+    border: 1px solid #E6E9ED;
+}
+
+.btn-info {
+    background: #43cbf9;
+    border: 1px solid #43cbf9;
+}
+
+.editor {
+    overflow: scroll;
+    max-height: 300px
+}
+
+.icon-preview {
+    font-size: 24px;
+    margin-left: 10px;
+}
+
+#iconSelect {
+    font-family: fontAwesome;
+}
+
+.required {
+    color: red;
+}
+
+.panel_toolbox>li>a.btn-danger:hover {
+    color: #fff;
+    background-color: #c82333;
+    border-color: #bd2130;
+}
+
+.panel_toolbox>li>a.btn-primary:hover {
+    color: #fff;
+    background-color: #0069d9;
+    border-color: #0062cc;
+}
+
+.panel_toolbox>li>a.btn-info:hover {
+    color: #fff;
+    background-color: #138496;
+    border-color: #117a8b;
+}
+
+.icon-media-social {
+    width: 40px;
+}
+
+.icon-orcid {
+    width: 60%;
+}
+
+.buttons-excel {
+    background-color: #1f7145;
+    color: #fff;
+}
+
+.buttons-pdf {
+    background-color: #ad0b00;
+    color: #fff;
+}
+
+.sidebar-footer a {
+    background: transparent;
+}
+
+.sidebar-footer a:hover {
+    background: #233240;
+    color: #fff;
+}
+
+.login_wrapper {
+    margin-top: 25vh;
+}
+
+.no_image {
+	height: 300px;
+	float: right;
+	margin: 0 0 20px 20px;
+	box-shadow: 4px 2px 14px 2px #888181;
+	width: 200px;
+	background: #ffff;
+	content: 'No Image';
+}

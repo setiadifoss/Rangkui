@@ -1,0 +1,45 @@
+# Environment
+.env
+
+# System
+.DS_Store
+
+# Writable directories
+writable/cache/*
+!writable/cache/.gitkeep
+
+writable/debugbar/*.json
+
+writable/logs/*.log
+
+writable/session/*
+!writable/session/.gitkeep
+
+writable/upload/*
+!writable/upload/.gitkeep
+
+# Uploads (ignore all files but keep structure with .gitkeep)
+public/uploads/*
+!public/uploads/.gitkeep
+
+# Re-include known folders and .gitkeep
+public/uploads/person/
+!public/uploads/person/.gitkeep
+
+public/uploads/biblio/
+!public/uploads/biblio/.gitkeep
+
+public/uploads/repository/
+!public/uploads/repository/.gitkeep
+
+public/uploads/images/
+!public/uploads/images/.gitkeep
+
+public/uploads/images/docs/
+!public/uploads/images/docs/.gitkeep
+
+public/uploads/images/sliders/
+!public/uploads/images/sliders/.gitkeep
+
+# Catch-all: track .gitkeep everywhere
+!.gitkeep
